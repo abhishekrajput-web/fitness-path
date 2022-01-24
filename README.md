@@ -1,5 +1,5 @@
 # fitness Path
-<h1>Basic Fitness Website Path Using Sass</h1>
+<h1>Basic Fitness Website Using Sass</h1>
 <p><a href="https://abhishekrajput-web.github.io/fitness-path/">View The Live Website Deployment <a><p>
 
 <h2 style="color:white">Technology Used To Make This Website</h2>
