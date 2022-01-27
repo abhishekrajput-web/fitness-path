@@ -35,3 +35,9 @@
     const currentYear = new Date().getFullYear();
     const year = document.getElementById("year");
     year.innerText = currentYear;
+
+// PRELOADER EFFECT
+const preloader = document.querySelector(".preloader");
+window.addEventListener("load", function() {
+    preloader.classList.add("hide-preloader");
+});
