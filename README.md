@@ -21,6 +21,11 @@
 <img style="margin-top:20px" src="website pics/website%20pics%20(3).jpeg">
 <img style="margin-top:20px" src="website pics/website%20pics%20(2).jpeg">
 <div>
+ 
+ 
+<h2 style="margin-top:20px">Quick Start</h2>
+<p>Fork the repository - https://github.com/abhishekrajput-web/fitness-path.git<p>
+
 
 <h2 style="color:white;margin-top:20px">Credit For Images And Links<h2>
 
@@ -29,6 +34,11 @@
 <li>refrence links - <b>w3school<b></li>
 <div>
 
+ <h2 style="margin-top:20px">Author Info</h2>
+<p>Author Name - Abhishek Rajput<p>
+<p>Author Email - abhishekrajputcr7@gmail.com<p>
+<p>Author Linkedin - <a href="https://linkedin.com/in/abhishek-rajput-58b5811a8">Linkedin Profile</a><p>
+ 
 
 <h2 style="margin-top:20px">Full Website Seen</h2>
 <div>
