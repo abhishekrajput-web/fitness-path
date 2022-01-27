@@ -8,7 +8,7 @@
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://img.icons8.com/color/94/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://img.icons8.com/color/94/000000/javascript.png"/> </a> 
-      <a href="https://www.w3schools.com/bootstrap5/default.asp" target="_blank"> <img src="https://img.icons8.com/color/94/000000/bootstrap.png"/> </a> 
+      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/bootstrap.png"/> </a> 
         <a href="https://www.w3schools.com/sass/" target="_blank"> <img src="https://img.icons8.com/color/94/000000/sass.png"/> </a>
 </div>
 
